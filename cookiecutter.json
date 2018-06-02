@@ -1,7 +1,7 @@
 {
-    "full_name": "Jeanne Choo",
-    "email": "jchoo@aisingapore.org",
-    "github_username": "jeannefukumaru",
+    "full_name": "Lee XA",
+    "email": "leexa@bii.edu.sg",
+    "github_username": "leexa",
     "project_name": "cookiecutter-ml",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "project template for reproducible ml",
