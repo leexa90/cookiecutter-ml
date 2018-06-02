@@ -11,7 +11,7 @@ How to Use
 
 2. Then initialise a template:
 
-`cookiecutter gh:jeannefukumaru/cookiecutter-ml`
+`cookiecutter gh:leexa90/cookiecutter-ml`
 
 More information on the cookiecutter project can be found [here](https://cookiecutter.readthedocs.io/en/latest/readme.html)
 
